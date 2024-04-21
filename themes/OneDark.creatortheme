@@ -1,4 +1,5 @@
 [General]
+Includes=dark.figmatokens
 ThemeName=One Dark
 PreferredStyles=Fusion
 DefaultTextEditorColorScheme=creator-dark.xml
